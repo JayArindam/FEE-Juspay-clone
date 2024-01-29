@@ -1,0 +1,204 @@
+body{
+    margin: 0%;
+}
+
+/*                                                                                  */
+/* this part of the code is responsible for the moving text that we are able to see */
+/*                                                                                  */
+.marque{
+    background-color: #4684ff;
+    color: white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    height: 7.1vh;
+}
+
+.mov-tex{
+    margin-top: 1vh;
+    font-size: 3vh;
+}
+
+.mov-btn {
+    text-decoration: none;
+    color: black;
+    background-color: white;
+    border-radius: 1vh;
+    font-weight: 450;
+    max-height: 2vh;
+    max-width: 16vh;
+
+    display: inline-block;
+}
+
+/*                                                     */
+/* this part of the code is responsible for the navbar */
+/*                                                     */
+.navbar {
+    background-color:#222428; 
+    padding: 10px; 
+}
+
+.nav-ele {
+    list-style: none;
+    margin: 4.8vh;
+    padding: 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.nav-ele li {
+    margin: 0;
+}
+
+.nav-ele a {
+    text-decoration: none;
+    color: white;
+}
+
+
+.nav-ele img {
+    margin-right: 50vh;
+}
+
+/* Styles for the Sign Up button */
+.mov-btn {
+    text-decoration: none;
+    color: black;
+    background-color: white;
+    border-radius: 10px;
+    padding: 10px 15px;
+    font-weight: 450;
+}
+
+
+
+.sign-up {
+    text-decoration: none;
+    background-color: white;
+    color: black !important;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    padding: 2vh 4vh;
+    border-radius: 1vh;
+    font-weight: 500;
+}
+
+/*                                                            */
+/* this part of the code is responsible for the first section */
+/*                                                            */
+table{
+    padding: 10vh 10vh;
+}
+
+.first-section {
+    background-color: #222428;
+    height: 150vh;
+    max-height: 100%;
+    max-width: 100%;
+}
+
+.india {
+    color: #80a3ea;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 8vh;
+}
+
+.pay-graph {
+    color: white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 10vh;
+}
+
+.we-unify {
+    color: white;
+    font-size: 3vh;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.learn-btn , .learn-btn a{
+    text-decoration: none;
+    padding: 2vh 3vh;
+    max-width: 20vh;
+    max-height: 10vh;
+    background-color: #0055ff;
+    border-radius: 1vh;
+    color: white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 2.8vh;
+}
+
+/*                                                                      */
+/* the following part of the code is responsible for the second section */
+/*                                                                      */
+
+.second-section {
+    background-color: white;
+    max-height: 177vh;
+    max-width: 100%;
+}
+
+.second-section img {
+    width: 100%;
+    height: auto;
+    display: block;
+}
+/*                                                                      */
+/* the following part of the code is responsible for the third section  */
+/*                                                                      */
+
+.third-section {
+    max-width: 100%;
+    max-height: 152vh;
+    background-color: #222428;
+}
+
+.third-section img {
+    width: 100%;
+    height: auto;
+    display: block;
+}
+
+/*                                                                      */
+/* the following part of the code is responsible for the fourth section */
+/*                                                                      */
+
+.fourth-section {
+    max-width: 100%;
+    max-height: 152vh;
+    background-color: white;
+}
+
+.fourth-section img {
+    width: 100%;
+    height: auto;
+    display: block;
+}
+
+.know-more-btn {
+    text-decoration: none;
+    background-color: #1865ff;
+    color: white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 4vh;
+    border-radius: 1vh;
+    max-width: 20vh;
+    max-height: 8vh;
+    padding: 1vh 3vh;
+    margin-top: 100vh;
+    margin-left: 80vh;
+}
+
+/*                                                                      */
+/* the following part of the code is responsible for the fifth section  */
+/*                                                                      */
+
+.fifth-section {
+    max-width: 100%;
+    max-height: 152vh;
+    background-color: #f4f9fd;
+}
+
+.fifth-section img {
+    width: 100%;
+    height: auto;
+    display: block;
+}
